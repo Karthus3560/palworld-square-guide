@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pak
+*.uasset
+*.uexp
+*.ubulk
+*.usmap
+*.exe
+*.dll
+*.zip
+*-mapped.json
+palbox-square.json
+tools/
+stage/
+original/
